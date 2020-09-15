@@ -38,8 +38,6 @@
     </properties>
 
     <dependencies>
-        <!--此处放日志包，所有项目都要引用-->
-        <!-- 所有子项目的日志框架 -->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>jcl-over-slf4j</artifactId>
